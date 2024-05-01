@@ -12,6 +12,6 @@ The potential power of computing that a single computer could achieve has always
 ## What I'm currently doing
 - Creating my own kernel
 - Some game/app in assembly
-- A bitcoin miner
+- A bitcoin miner 💻🔍⛏️💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰📈
 
 
